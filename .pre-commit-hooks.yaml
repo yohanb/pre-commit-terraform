@@ -1,0 +1,6 @@
+-   id: tf-sort
+    name: "tf-sort: sort terraform resources"
+    entry: tf-sort
+    language: golang
+    description: Alphabetically sorts Terraform resources.
+    files: '\.tf$'
